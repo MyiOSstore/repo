@@ -24,13 +24,13 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.renderstore.geometry</string>
+               <string>com.MyiOSstore.geometry</string>
                <key>bundle-version</key>
                <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>title</key>
-               <string>Geometry Dash by @TRProyect</string>
+               <string>Geometry Dash @MyiOSstoret</string>
            </dict>
        </dict>
    </array>
