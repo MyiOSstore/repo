@@ -24,13 +24,13 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>enjoy.renderstore.flappy</string>
+               <string>enjoy.MyiOSstore.flappy</string>
                <key>bundle-version</key>
                <string>0.33.1</string>
                <key>kind</key>
                <string>software</string>
                <key>title</key>
-               <string>Hacked GTA III by @TRProyect</string>
+               <string>Hacked GTA III @MyiOSstore</string>
            </dict>
        </dict>
    </array>
